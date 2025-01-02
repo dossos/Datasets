@@ -1,4 +1,4 @@
-The datasets contain 23 individual datasets which correspond to the paper "A Novel Proprietary Internet Video Traffic Datasets Generation Algorithm".
+The datasets contain 26 individual datasets which correspond to the paper "A Novel Proprietary Internet Video Traffic Datasets Generation Algorithm".
 The following presents all datasets' structure:
 
 
